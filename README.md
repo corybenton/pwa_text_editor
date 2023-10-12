@@ -26,6 +26,9 @@ Go to the [website](https://murmuring-ocean-46643-4ed4d658b304.herokuapp.com/) a
 
 You can keep notes online or on the app and they will be available in both places.
 
+<img width="140" alt="Screenshot 2023-10-12 160930" src="https://github.com/corybenton/pwa_text_editor/assets/128768293/0274d29b-b2f7-45cc-a52b-b2147232939d">
+
+
 ## License
 
 This program is using the MIT license.
